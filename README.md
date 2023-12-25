@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mo23hammad
 - 👀 I’m interested in computer university
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on build a company
 - 📫 How to reach me mo23hammad@gmail.com
 
 <!---
