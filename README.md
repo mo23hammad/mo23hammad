@@ -10,7 +10,7 @@
   <a href="https://t.me/mo23hammad" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="mailto:mo23hammad@gmail.com" target="_blank">
+<a href="mailto:mohammad.abedi.code@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
 </a><br>
   
